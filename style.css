@@ -2104,7 +2104,7 @@ bottom: 5%; */
     height: 55.02%;
     width: 40%;
     bottom: 10%;
-    left: 20.9%;
+    left: 27.9%;
     transition: all;
     transition-duration: 1s;
     z-index: 10;
@@ -2116,10 +2116,25 @@ bottom: 5%; */
 
 #frame_back{
     position: absolute;
-      height: 55.02%;
-    width: 34%;
-    bottom: 17%;
-    left: 27.9%;
+      height: 54.02%;
+    width: 32.3%;
+    bottom: 14%;
+    left: 35.8%;
+    transition: all;
+    transition-duration: 1s;
+    z-index: 1;
+    opacity: 100%;
+   
+   
+    
+}
+
+#feeding_tray{
+    position: absolute;
+      height: 24.02%;
+    width: 25.3%;
+    bottom: 57%;
+    left: 11.1%;
     transition: all;
     transition-duration: 1s;
     z-index: 1;
